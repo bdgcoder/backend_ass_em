@@ -32,6 +32,14 @@ Random Treasure Location 3, 2
 Input Your Move
 Up/North (0-3) step:_
 ```
+Then You must input your move to found the treasure
+```sh
+Input Your Move
+Up/North (0-3) step:1   
+Right/East (0-5) step:1
+Down/South (0-5) step:0
+Wohooo!!! Congratulations, You found the treasure...
+```
 
 ## Thank you
 **I would love to invite with you and discuss the position in detail.**
