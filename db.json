@@ -12,6 +12,6 @@
     { "id": 2, "itemname": "Pempek Ikan Belida", "price": "30000", "categoryID": 1 },
     { "id": 3, "itemname": "Medium Portion Hail Caesar Chicken Salad", "price": "30000", "categoryID": 1 },
     { "id": 4, "itemname": "Rendang Daging Sapi", "price": "30000", "categoryID": 1 },
-    { "id": 5, "itemname": "Es Kopi Susu Gula Aren", "price": "30000", "categoryID": 2 },
+    { "id": 5, "itemname": "Es Kopi Susu Gula Aren", "price": "30000", "categoryID": 2 }
   ],
 }
