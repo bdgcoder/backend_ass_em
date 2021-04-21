@@ -1,9 +1,17 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "Titan" }
+  "customers": [
+    { "id": 1, "name": "John Doe", "email": "johndoe@gmail.com" },
+    { "id": 2, "name": "Michael Smith", "email": "michaelsmith@gmail.com" }
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
+  "itemCategorys": [
+    { "id": 1, "name": "Makanan" },
+    { "id": 2, "name": "Minuman"}
   ],
-  "profile": { "name": "typicode" }
+  "items": [
+    { "id": 1, "itemname": "Beef Mentai Rice", "price": "30000", "categoryID": 1 },
+    { "id": 2, "itemname": "Pempek Ikan Belida", "price": "30000", "categoryID": 1 },
+    { "id": 3, "itemname": "Medium Portion Hail Caesar Chicken Salad", "price": "30000", "categoryID": 1 },
+    { "id": 4, "itemname": "Rendang Daging Sapi", "price": "30000", "categoryID": 1 },
+    { "id": 5, "itemname": "Es Kopi Susu Gula Aren", "price": "30000", "categoryID": 2 },
+  ],
 }
